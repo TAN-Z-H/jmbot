@@ -1,0 +1,6 @@
+{
+    "savePath": "./downloads",
+    "proxy": "socks5://127.0.0.1:7980",
+    "allowGroups": [1914144635],
+    "maxConcurrent": 3
+  }
