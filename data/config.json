@@ -1,0 +1,6 @@
+{
+    "save_path": "./data/jmcomic",
+    "max_workers": 3,
+    "proxy": "http://127.0.0.1:7890",
+    "allow_groups": [993911500]
+}
